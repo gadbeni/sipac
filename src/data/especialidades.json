@@ -1,0 +1,66 @@
+[
+  {
+    "id": "esp_001",
+    "codigo": "MG",
+    "nombre": "Medicina General",
+    "descripcion": "Consulta médica general para personas de todas las edades.",
+    "icono": "MedicalServices",
+    "activo": true
+  },
+  {
+    "id": "esp_002",
+    "codigo": "PED",
+    "nombre": "Pediatría",
+    "descripcion": "Atención de niñas, niños y adolescentes hasta los 14 años.",
+    "icono": "ChildCare",
+    "activo": true
+  },
+  {
+    "id": "esp_003",
+    "codigo": "GIN",
+    "nombre": "Ginecología",
+    "descripcion": "Salud sexual y reproductiva de la mujer.",
+    "icono": "Female",
+    "activo": true
+  },
+  {
+    "id": "esp_004",
+    "codigo": "ODO",
+    "nombre": "Odontología",
+    "descripcion": "Atención dental preventiva y curativa básica.",
+    "icono": "SentimentVerySatisfied",
+    "activo": true
+  },
+  {
+    "id": "esp_005",
+    "codigo": "ENF",
+    "nombre": "Enfermería y vacunas",
+    "descripcion": "Vacunación, control de signos vitales y curaciones.",
+    "icono": "Vaccines",
+    "activo": true
+  },
+  {
+    "id": "esp_006",
+    "codigo": "NUT",
+    "nombre": "Nutrición",
+    "descripcion": "Orientación nutricional y control de peso y talla.",
+    "icono": "RestaurantMenu",
+    "activo": true
+  },
+  {
+    "id": "esp_007",
+    "codigo": "PSI",
+    "nombre": "Psicología",
+    "descripcion": "Orientación y apoyo psicológico (atención con derivación).",
+    "icono": "Psychology",
+    "activo": true
+  },
+  {
+    "id": "esp_008",
+    "codigo": "CPN",
+    "nombre": "Control prenatal",
+    "descripcion": "Seguimiento del embarazo y orientación a gestantes.",
+    "icono": "PregnantWoman",
+    "activo": true
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "con_001",
+    "centroId": "cen_001",
+    "nombre": "Consultorio 1",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_002",
+    "centroId": "cen_001",
+    "nombre": "Consultorio 2",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_003",
+    "centroId": "cen_001",
+    "nombre": "Consultorio 3",
+    "piso": "Primer piso",
+    "activo": true
+  },
+  {
+    "id": "con_004",
+    "centroId": "cen_001",
+    "nombre": "Odontología",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_005",
+    "centroId": "cen_001",
+    "nombre": "Enfermería y vacunas",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_006",
+    "centroId": "cen_002",
+    "nombre": "Consultorio 1",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_007",
+    "centroId": "cen_002",
+    "nombre": "Consultorio 2",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_008",
+    "centroId": "cen_002",
+    "nombre": "Odontología",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_009",
+    "centroId": "cen_002",
+    "nombre": "Enfermería",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_010",
+    "centroId": "cen_003",
+    "nombre": "Consultorio 1",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_011",
+    "centroId": "cen_003",
+    "nombre": "Consultorio 2",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_012",
+    "centroId": "cen_003",
+    "nombre": "Enfermería",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_013",
+    "centroId": "cen_004",
+    "nombre": "Consultorio 1",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_014",
+    "centroId": "cen_004",
+    "nombre": "Consultorio 2",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_015",
+    "centroId": "cen_005",
+    "nombre": "Consultorio",
+    "piso": "Planta baja",
+    "activo": true
+  },
+  {
+    "id": "con_016",
+    "centroId": "cen_005",
+    "nombre": "Enfermería",
+    "piso": "Planta baja",
+    "activo": true
+  }
+]

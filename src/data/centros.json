@@ -1,0 +1,177 @@
+[
+  {
+    "id": "cen_001",
+    "codigo": "BEN-TRI-0001",
+    "codigoCorto": "CSC",
+    "nombre": "Centro de Salud Central",
+    "tipo": "centro_salud_integral",
+    "nivelAtencion": "primer_nivel",
+    "descripcion": "Establecimiento de primer nivel con consulta externa, odontología, enfermería y control prenatal.",
+    "direccion": "Calle Ficticia 123, zona Central",
+    "departamento": "Beni",
+    "provincia": "Cercado",
+    "municipio": "Trinidad",
+    "localidad": "Trinidad",
+    "latitud": -14.8336,
+    "longitud": -64.9006,
+    "telefono": "+591 3 0000001",
+    "email": "central@demo-salud.bo",
+    "imagen": "/branding/centros/centro-1.svg",
+    "horarioGeneral": [
+      {
+        "dias": [1, 2, 3, 4, 5],
+        "apertura": "07:00",
+        "cierre": "19:00"
+      },
+      {
+        "dias": [6],
+        "apertura": "08:00",
+        "cierre": "12:00"
+      }
+    ],
+    "config": {
+      "diasAnticipacionMax": 14,
+      "cierreMismoDiaMin": 60,
+      "factorLimitePendientes": 2
+    },
+    "activo": true,
+    "creadoEn": "2026-01-10T09:00:00-04:00",
+    "actualizadoEn": "2026-01-10T09:00:00-04:00"
+  },
+  {
+    "id": "cen_002",
+    "codigo": "BEN-TRI-0002",
+    "codigoCorto": "CSP",
+    "nombre": "Centro de Salud Pompeya",
+    "tipo": "centro_salud",
+    "nivelAtencion": "primer_nivel",
+    "descripcion": "Centro de salud de barrio con atención de medicina general, pediatría y odontología.",
+    "direccion": "Av. Demostración 450, barrio Pompeya",
+    "departamento": "Beni",
+    "provincia": "Cercado",
+    "municipio": "Trinidad",
+    "localidad": "Trinidad",
+    "latitud": -14.8268,
+    "longitud": -64.9128,
+    "telefono": "+591 3 0000002",
+    "email": "pompeya@demo-salud.bo",
+    "imagen": "/branding/centros/centro-2.svg",
+    "horarioGeneral": [
+      {
+        "dias": [1, 2, 3, 4, 5],
+        "apertura": "07:00",
+        "cierre": "19:00"
+      }
+    ],
+    "config": {
+      "diasAnticipacionMax": 14,
+      "cierreMismoDiaMin": 60,
+      "factorLimitePendientes": 2
+    },
+    "activo": true,
+    "creadoEn": "2026-01-10T09:00:00-04:00",
+    "actualizadoEn": "2026-01-10T09:00:00-04:00"
+  },
+  {
+    "id": "cen_003",
+    "codigo": "BEN-TRI-0003",
+    "codigoCorto": "CVC",
+    "nombre": "Centro de Salud Villa Corina",
+    "tipo": "centro_salud",
+    "nivelAtencion": "primer_nivel",
+    "descripcion": "Atención ambulatoria de primer nivel para la zona sur de la ciudad.",
+    "direccion": "Calle Ejemplo s/n, barrio Villa Corina",
+    "departamento": "Beni",
+    "provincia": "Cercado",
+    "municipio": "Trinidad",
+    "localidad": "Trinidad",
+    "latitud": -14.8462,
+    "longitud": -64.8889,
+    "telefono": "+591 3 0000003",
+    "email": "villacorina@demo-salud.bo",
+    "imagen": "/branding/centros/centro-3.svg",
+    "horarioGeneral": [
+      {
+        "dias": [1, 2, 3, 4, 5],
+        "apertura": "07:30",
+        "cierre": "18:30"
+      }
+    ],
+    "config": {
+      "diasAnticipacionMax": 14,
+      "cierreMismoDiaMin": 60,
+      "factorLimitePendientes": 2
+    },
+    "activo": true,
+    "creadoEn": "2026-01-10T09:00:00-04:00",
+    "actualizadoEn": "2026-01-10T09:00:00-04:00"
+  },
+  {
+    "id": "cen_004",
+    "codigo": "BEN-TRI-0004",
+    "codigoCorto": "CSJ",
+    "nombre": "Centro de Salud San José",
+    "tipo": "centro_salud",
+    "nivelAtencion": "primer_nivel",
+    "descripcion": "Establecimiento temporalmente inactivo por refacción (dato ficticio). Conserva su historial.",
+    "direccion": "Calle Modelo 78, barrio San José",
+    "departamento": "Beni",
+    "provincia": "Cercado",
+    "municipio": "Trinidad",
+    "localidad": "Trinidad",
+    "latitud": -14.8175,
+    "longitud": -64.8951,
+    "telefono": "+591 3 0000004",
+    "email": "sanjose@demo-salud.bo",
+    "imagen": "/branding/centros/centro-4.svg",
+    "horarioGeneral": [
+      {
+        "dias": [1, 2, 3, 4, 5],
+        "apertura": "07:30",
+        "cierre": "13:30"
+      }
+    ],
+    "config": {
+      "diasAnticipacionMax": 14,
+      "cierreMismoDiaMin": 60,
+      "factorLimitePendientes": 2
+    },
+    "activo": false,
+    "creadoEn": "2026-01-10T09:00:00-04:00",
+    "actualizadoEn": "2026-01-10T09:00:00-04:00"
+  },
+  {
+    "id": "cen_005",
+    "codigo": "BEN-SJV-0001",
+    "codigoCorto": "PSV",
+    "nombre": "Puesto de Salud San Javier",
+    "tipo": "puesto_salud",
+    "nivelAtencion": "primer_nivel",
+    "descripcion": "Puesto de salud rural con medicina general y enfermería.",
+    "direccion": "Plaza principal s/n",
+    "departamento": "Beni",
+    "provincia": "Cercado",
+    "municipio": "San Javier",
+    "localidad": "San Javier",
+    "latitud": -14.5665,
+    "longitud": -64.6837,
+    "telefono": "+591 3 0000005",
+    "email": "sanjavier@demo-salud.bo",
+    "imagen": "/branding/centros/centro-5.svg",
+    "horarioGeneral": [
+      {
+        "dias": [1, 2, 3, 4, 5],
+        "apertura": "07:30",
+        "cierre": "13:30"
+      }
+    ],
+    "config": {
+      "diasAnticipacionMax": 14,
+      "cierreMismoDiaMin": 60,
+      "factorLimitePendientes": 2
+    },
+    "activo": true,
+    "creadoEn": "2026-01-10T09:00:00-04:00",
+    "actualizadoEn": "2026-01-10T09:00:00-04:00"
+  }
+]

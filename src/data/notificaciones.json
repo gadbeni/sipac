@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ntf_001",
+    "centroId": "cen_001",
+    "destinoUsuarioId": null,
+    "destinoRoles": ["admin_centro", "recepcionista"],
+    "tipo": "solicitudes_pendientes",
+    "titulo": "Solicitudes pendientes",
+    "mensaje": "Hay solicitudes web pendientes de revisión para los próximos días.",
+    "enlace": "/admin/solicitudes?tab=pendientes",
+    "leidaPor": [],
+    "creadoEn": "@now-40m"
+  },
+  {
+    "id": "ntf_002",
+    "centroId": "cen_001",
+    "destinoUsuarioId": null,
+    "destinoRoles": ["admin_centro", "recepcionista"],
+    "tipo": "lista_espera",
+    "titulo": "Lista de espera",
+    "mensaje": "Una solicitud de Medicina General está en lista de espera para mañana.",
+    "enlace": "/admin/solicitudes?tab=lista_espera",
+    "leidaPor": [],
+    "creadoEn": "@now-4h"
+  },
+  {
+    "id": "ntf_003",
+    "centroId": "cen_001",
+    "destinoUsuarioId": null,
+    "destinoRoles": ["admin_centro", "recepcionista"],
+    "tipo": "paciente_bloqueado",
+    "titulo": "Paciente bloqueado por inasistencia",
+    "mensaje": "Un paciente no se presentó a su ficha de ayer y quedó bloqueado para nuevas solicitudes.",
+    "enlace": "/admin/pacientes?bloqueados=1",
+    "leidaPor": [],
+    "creadoEn": "@d+0T06:00"
+  },
+  {
+    "id": "ntf_004",
+    "centroId": "cen_001",
+    "destinoUsuarioId": null,
+    "destinoRoles": ["admin_centro", "responsable_medico"],
+    "tipo": "agenda",
+    "titulo": "Permiso registrado",
+    "mensaje": "Se registró un permiso de Pediatría para los próximos días. Revise las fichas afectadas.",
+    "enlace": "/admin/agenda",
+    "leidaPor": [],
+    "creadoEn": "@now-1d"
+  },
+  {
+    "id": "ntf_005",
+    "centroId": "cen_002",
+    "destinoUsuarioId": null,
+    "destinoRoles": ["admin_centro", "recepcionista"],
+    "tipo": "solicitudes_pendientes",
+    "titulo": "Solicitudes pendientes",
+    "mensaje": "Hay solicitudes web pendientes de revisión.",
+    "enlace": "/admin/solicitudes?tab=pendientes",
+    "leidaPor": [],
+    "creadoEn": "@now-30m"
+  },
+  {
+    "id": "ntf_006",
+    "centroId": "cen_003",
+    "destinoUsuarioId": null,
+    "destinoRoles": ["admin_centro", "recepcionista"],
+    "tipo": "datos_por_verificar",
+    "titulo": "Datos por verificar",
+    "mensaje": "Una solicitud tiene datos del paciente distintos a los registrados.",
+    "enlace": "/admin/solicitudes?tab=pendientes",
+    "leidaPor": [],
+    "creadoEn": "@now-25m"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "mc_001",
+    "medicoId": "med_001",
+    "centroId": "cen_001",
+    "especialidadIds": ["esp_001"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_002",
+    "medicoId": "med_001",
+    "centroId": "cen_002",
+    "especialidadIds": ["esp_001"],
+    "cargo": "Rotación",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_003",
+    "medicoId": "med_002",
+    "centroId": "cen_001",
+    "especialidadIds": ["esp_001"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_004",
+    "medicoId": "med_010",
+    "centroId": "cen_001",
+    "especialidadIds": ["esp_001"],
+    "cargo": "Rotación",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_005",
+    "medicoId": "med_003",
+    "centroId": "cen_001",
+    "especialidadIds": ["esp_002"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_006",
+    "medicoId": "med_004",
+    "centroId": "cen_001",
+    "especialidadIds": ["esp_003"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_007",
+    "medicoId": "med_004",
+    "centroId": "cen_003",
+    "especialidadIds": ["esp_003"],
+    "cargo": "Rotación",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_008",
+    "medicoId": "med_005",
+    "centroId": "cen_001",
+    "especialidadIds": ["esp_004"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_009",
+    "medicoId": "med_006",
+    "centroId": "cen_001",
+    "especialidadIds": ["esp_005"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_010",
+    "medicoId": "med_007",
+    "centroId": "cen_001",
+    "especialidadIds": ["esp_006"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_011",
+    "medicoId": "med_008",
+    "centroId": "cen_001",
+    "especialidadIds": ["esp_007"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_012",
+    "medicoId": "med_009",
+    "centroId": "cen_001",
+    "especialidadIds": ["esp_008"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_013",
+    "medicoId": "med_010",
+    "centroId": "cen_002",
+    "especialidadIds": ["esp_001"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_014",
+    "medicoId": "med_011",
+    "centroId": "cen_002",
+    "especialidadIds": ["esp_002"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_015",
+    "medicoId": "med_012",
+    "centroId": "cen_002",
+    "especialidadIds": ["esp_004"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_016",
+    "medicoId": "med_013",
+    "centroId": "cen_002",
+    "especialidadIds": ["esp_008"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_017",
+    "medicoId": "med_014",
+    "centroId": "cen_002",
+    "especialidadIds": ["esp_005"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_018",
+    "medicoId": "med_015",
+    "centroId": "cen_003",
+    "especialidadIds": ["esp_001"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_019",
+    "medicoId": "med_017",
+    "centroId": "cen_003",
+    "especialidadIds": ["esp_001"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_020",
+    "medicoId": "med_016",
+    "centroId": "cen_003",
+    "especialidadIds": ["esp_002"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_021",
+    "medicoId": "med_018",
+    "centroId": "cen_003",
+    "especialidadIds": ["esp_005"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_022",
+    "medicoId": "med_019",
+    "centroId": "cen_004",
+    "especialidadIds": ["esp_001"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_023",
+    "medicoId": "med_020",
+    "centroId": "cen_004",
+    "especialidadIds": ["esp_002"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_024",
+    "medicoId": "med_021",
+    "centroId": "cen_004",
+    "especialidadIds": ["esp_004"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_025",
+    "medicoId": "med_022",
+    "centroId": "cen_005",
+    "especialidadIds": ["esp_001"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  },
+  {
+    "id": "mc_026",
+    "medicoId": "med_023",
+    "centroId": "cen_005",
+    "especialidadIds": ["esp_005"],
+    "cargo": "Planta",
+    "fechaInicio": "2026-01-15",
+    "fechaFin": null,
+    "activo": true
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "ce_001",
+    "centroId": "cen_001",
+    "especialidadId": "esp_001",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_002",
+    "centroId": "cen_001",
+    "especialidadId": "esp_002",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_003",
+    "centroId": "cen_001",
+    "especialidadId": "esp_003",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_004",
+    "centroId": "cen_001",
+    "especialidadId": "esp_004",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_005",
+    "centroId": "cen_001",
+    "especialidadId": "esp_005",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "automatica",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_006",
+    "centroId": "cen_001",
+    "especialidadId": "esp_006",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_007",
+    "centroId": "cen_001",
+    "especialidadId": "esp_007",
+    "aceptaSolicitudesPublicas": false,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": "Atención solo en ventanilla, con derivación de medicina general.",
+    "activo": true
+  },
+  {
+    "id": "ce_008",
+    "centroId": "cen_001",
+    "especialidadId": "esp_008",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_009",
+    "centroId": "cen_002",
+    "especialidadId": "esp_001",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_010",
+    "centroId": "cen_002",
+    "especialidadId": "esp_002",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_011",
+    "centroId": "cen_002",
+    "especialidadId": "esp_004",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_012",
+    "centroId": "cen_002",
+    "especialidadId": "esp_005",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "automatica",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_013",
+    "centroId": "cen_002",
+    "especialidadId": "esp_008",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_014",
+    "centroId": "cen_003",
+    "especialidadId": "esp_001",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_015",
+    "centroId": "cen_003",
+    "especialidadId": "esp_002",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_016",
+    "centroId": "cen_003",
+    "especialidadId": "esp_003",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_017",
+    "centroId": "cen_003",
+    "especialidadId": "esp_005",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "automatica",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_018",
+    "centroId": "cen_004",
+    "especialidadId": "esp_001",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_019",
+    "centroId": "cen_004",
+    "especialidadId": "esp_002",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_020",
+    "centroId": "cen_004",
+    "especialidadId": "esp_004",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_021",
+    "centroId": "cen_005",
+    "especialidadId": "esp_001",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "elegible",
+    "descripcionLocal": null,
+    "activo": true
+  },
+  {
+    "id": "ce_022",
+    "centroId": "cen_005",
+    "especialidadId": "esp_005",
+    "aceptaSolicitudesPublicas": true,
+    "asignacionMedico": "automatica",
+    "descripcionLocal": null,
+    "activo": true
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "id": "sol_0001",
+    "codigo": "CSC-7K3F9Q",
+    "centroId": "cen_001",
+    "pacienteId": "pac_001",
+    "especialidadId": "esp_001",
+    "fechaSolicitada": "@d+1",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "aprobada",
+    "motivoEstado": null,
+    "fichaId": "fic_0001",
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@now-3h",
+        "usuarioId": "publico",
+        "nota": null
+      },
+      {
+        "estado": "aprobada",
+        "fecha": "@now-2h",
+        "usuarioId": "usr_003",
+        "nota": "Asignación automática"
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@now-3h",
+    "actualizadoEn": "@now-2h",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0002",
+    "codigo": "CSC-PND2A4",
+    "centroId": "cen_001",
+    "pacienteId": "pac_002",
+    "especialidadId": "esp_002",
+    "fechaSolicitada": "@d+1",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "pendiente",
+    "motivoEstado": null,
+    "fichaId": null,
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@now-50m",
+        "usuarioId": "publico",
+        "nota": null
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@now-50m",
+    "actualizadoEn": "@now-50m",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0003",
+    "codigo": "CSC-G7N3B5",
+    "centroId": "cen_001",
+    "pacienteId": "pac_003",
+    "especialidadId": "esp_003",
+    "fechaSolicitada": "@d+2",
+    "medicoPreferidoId": "med_004",
+    "canal": "web",
+    "estado": "pendiente",
+    "motivoEstado": null,
+    "fichaId": null,
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@now-40m",
+        "usuarioId": "publico",
+        "nota": null
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@now-40m",
+    "actualizadoEn": "@now-40m",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0004",
+    "codigo": "CSC-X5T4C6",
+    "centroId": "cen_001",
+    "pacienteId": "pac_004",
+    "especialidadId": "esp_001",
+    "fechaSolicitada": "@d+1",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "lista_espera",
+    "motivoEstado": null,
+    "fichaId": null,
+    "datosPorVerificar": true,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@now-5h",
+        "usuarioId": "publico",
+        "nota": null
+      },
+      {
+        "estado": "lista_espera",
+        "fecha": "@now-4h",
+        "usuarioId": "usr_003",
+        "nota": "Sin cupos en el bloque solicitado"
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@now-5h",
+    "actualizadoEn": "@now-4h",
+    "datosIngresados": {
+      "nombres": "Luis Fernando",
+      "apellidos": "Égüez Rivero",
+      "fechaNacimiento": "1975-11-30",
+      "telefono": "+591 76543210"
+    }
+  },
+  {
+    "id": "sol_0005",
+    "codigo": "CSC-RCH5D7",
+    "centroId": "cen_001",
+    "pacienteId": "pac_005",
+    "especialidadId": "esp_004",
+    "fechaSolicitada": "@d-3",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "rechazada",
+    "motivoEstado": "Datos del paciente inconsistentes",
+    "fichaId": null,
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@d-5T09:10",
+        "usuarioId": "publico",
+        "nota": null
+      },
+      {
+        "estado": "rechazada",
+        "fecha": "@d-5T11:00",
+        "usuarioId": "usr_003",
+        "nota": "Datos del paciente inconsistentes"
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@d-5T09:10",
+    "actualizadoEn": "@d-5T11:00",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0006",
+    "codigo": "CSC-ESP7F9",
+    "centroId": "cen_001",
+    "pacienteId": "pac_007",
+    "especialidadId": "esp_002",
+    "fechaSolicitada": "@d+0",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "aprobada",
+    "motivoEstado": null,
+    "fichaId": "fic_0003",
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@d-1T16:20",
+        "usuarioId": "publico",
+        "nota": null
+      },
+      {
+        "estado": "aprobada",
+        "fecha": "@d-1T17:05",
+        "usuarioId": "usr_003",
+        "nota": null
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@d-1T16:20",
+    "actualizadoEn": "@d-1T17:05",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0007",
+    "codigo": "CSC-AUS8G2",
+    "centroId": "cen_001",
+    "pacienteId": "pac_008",
+    "especialidadId": "esp_001",
+    "fechaSolicitada": "@d-1",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "aprobada",
+    "motivoEstado": null,
+    "fichaId": "fic_0004",
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@d-3T10:00",
+        "usuarioId": "publico",
+        "nota": null
+      },
+      {
+        "estado": "aprobada",
+        "fecha": "@d-3T11:30",
+        "usuarioId": "usr_003",
+        "nota": null
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@d-3T10:00",
+    "actualizadoEn": "@d-3T11:30",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0008",
+    "codigo": "CSC-RPG9H3",
+    "centroId": "cen_001",
+    "pacienteId": "pac_009",
+    "especialidadId": "esp_004",
+    "fechaSolicitada": "@d+1",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "aprobada",
+    "motivoEstado": null,
+    "fichaId": "fic_0006",
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@d-2T08:30",
+        "usuarioId": "publico",
+        "nota": null
+      },
+      {
+        "estado": "aprobada",
+        "fecha": "@d-2T09:15",
+        "usuarioId": "usr_003",
+        "nota": null
+      },
+      {
+        "estado": "aprobada",
+        "fecha": "@now-1h",
+        "usuarioId": "usr_003",
+        "nota": "Reprogramada por solicitud de la paciente"
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@d-2T08:30",
+    "actualizadoEn": "@now-1h",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0009",
+    "codigo": "CSC-CNC2J4",
+    "centroId": "cen_001",
+    "pacienteId": "pac_010",
+    "especialidadId": "esp_001",
+    "fechaSolicitada": "@d+2",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "cancelada",
+    "motivoEstado": "Solicitado por el paciente",
+    "fichaId": null,
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@now-6h",
+        "usuarioId": "publico",
+        "nota": null
+      },
+      {
+        "estado": "cancelada",
+        "fecha": "@now-3h",
+        "usuarioId": "publico",
+        "nota": "Cancelada por la ciudadana desde la consulta pública"
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@now-6h",
+    "actualizadoEn": "@now-3h",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0010",
+    "codigo": "CSC-VNC2K5",
+    "centroId": "cen_001",
+    "pacienteId": "pac_011",
+    "especialidadId": "esp_002",
+    "fechaSolicitada": "@d-2",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "vencida",
+    "motivoEstado": "Fecha de atención vencida sin asignación",
+    "fichaId": null,
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@d-4T19:00",
+        "usuarioId": "publico",
+        "nota": null
+      },
+      {
+        "estado": "vencida",
+        "fecha": "@d-1T00:05",
+        "usuarioId": "sistema",
+        "nota": "Vencimiento automático"
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@d-4T19:00",
+    "actualizadoEn": "@d-1T00:05",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0011",
+    "codigo": "CSP-PMP3W6",
+    "centroId": "cen_002",
+    "pacienteId": "pac_013",
+    "especialidadId": "esp_001",
+    "fechaSolicitada": "@d+1",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "pendiente",
+    "motivoEstado": null,
+    "fichaId": null,
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@now-30m",
+        "usuarioId": "publico",
+        "nota": null
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@now-30m",
+    "actualizadoEn": "@now-30m",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0012",
+    "codigo": "CVC-VCR4M7",
+    "centroId": "cen_003",
+    "pacienteId": "pac_015",
+    "especialidadId": "esp_001",
+    "fechaSolicitada": "@d+1",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "pendiente",
+    "motivoEstado": null,
+    "fichaId": null,
+    "datosPorVerificar": true,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@now-25m",
+        "usuarioId": "publico",
+        "nota": null
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@now-25m",
+    "actualizadoEn": "@now-25m",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0013",
+    "codigo": "CSC-MEN5N8",
+    "centroId": "cen_001",
+    "pacienteId": "pac_016",
+    "especialidadId": "esp_002",
+    "fechaSolicitada": "@d+3",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "pendiente",
+    "motivoEstado": null,
+    "fichaId": null,
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@now-15m",
+        "usuarioId": "publico",
+        "nota": null
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@now-15m",
+    "actualizadoEn": "@now-15m",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0014",
+    "codigo": "CSC-SHR6P9",
+    "centroId": "cen_001",
+    "pacienteId": "pac_017",
+    "especialidadId": "esp_001",
+    "fechaSolicitada": "@d-4",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "aprobada",
+    "motivoEstado": null,
+    "fichaId": "fic_0009",
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@d-6T09:00",
+        "usuarioId": "publico",
+        "nota": null
+      },
+      {
+        "estado": "aprobada",
+        "fecha": "@d-6T10:00",
+        "usuarioId": "usr_003",
+        "nota": null
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@d-6T09:00",
+    "actualizadoEn": "@d-6T10:00",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0015",
+    "codigo": "CSP-SHR7Q2",
+    "centroId": "cen_002",
+    "pacienteId": "pac_017",
+    "especialidadId": "esp_002",
+    "fechaSolicitada": "@d+2",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "aprobada",
+    "motivoEstado": null,
+    "fichaId": "fic_0010",
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@now-1d",
+        "usuarioId": "publico",
+        "nota": null
+      },
+      {
+        "estado": "aprobada",
+        "fecha": "@now-20h",
+        "usuarioId": "usr_007",
+        "nota": null
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@now-1d",
+    "actualizadoEn": "@now-20h",
+    "datosIngresados": null
+  },
+  {
+    "id": "sol_0016",
+    "codigo": "CSC-ATD9S4",
+    "centroId": "cen_001",
+    "pacienteId": "pac_020",
+    "especialidadId": "esp_001",
+    "fechaSolicitada": "@d-2",
+    "medicoPreferidoId": null,
+    "canal": "web",
+    "estado": "aprobada",
+    "motivoEstado": null,
+    "fichaId": "fic_0011",
+    "datosPorVerificar": false,
+    "historial": [
+      {
+        "estado": "pendiente",
+        "fecha": "@d-4T08:00",
+        "usuarioId": "publico",
+        "nota": null
+      },
+      {
+        "estado": "aprobada",
+        "fecha": "@d-4T09:00",
+        "usuarioId": "usr_003",
+        "nota": null
+      }
+    ],
+    "creadoPor": "publico",
+    "creadoEn": "@d-4T08:00",
+    "actualizadoEn": "@d-4T09:00",
+    "datosIngresados": null
+  }
+]
