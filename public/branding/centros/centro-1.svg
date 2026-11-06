@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" role="img" aria-label="Ilustración de centro de salud">
+<rect width="480" height="220" fill="#D1FAE5"/>
+<circle cx="400" cy="52" r="26" fill="#A7F3D0"/>
+<path d="M0 178 Q120 150 240 172 T480 168 V220 H0z" fill="#A7F3D0"/>
+<rect x="110" y="60" width="260" height="110" rx="6" fill="#FFFFFF"/>
+<rect x="110" y="60" width="260" height="10" rx="5" fill="#0E7A5A"/>
+<rect x="128" y="78" width="22" height="18" rx="3" fill="#D1FAE5"/><rect x="160" y="78" width="22" height="18" rx="3" fill="#D1FAE5"/><rect x="240" y="78" width="22" height="18" rx="3" fill="#D1FAE5"/><rect x="272" y="78" width="22" height="18" rx="3" fill="#D1FAE5"/><rect x="128" y="112" width="22" height="18" rx="3" fill="#D1FAE5"/><rect x="160" y="112" width="22" height="18" rx="3" fill="#D1FAE5"/><rect x="240" y="112" width="22" height="18" rx="3" fill="#D1FAE5"/><rect x="272" y="112" width="22" height="18" rx="3" fill="#D1FAE5"/>
+<rect x="214" y="126" width="52" height="44" rx="4" fill="#0E7A5A" opacity="0.9"/>
+<rect x="208" y="26" width="64" height="40" rx="8" fill="#FFFFFF" stroke="#0E7A5A" stroke-width="3"/>
+<path d="M234 32h12v10h10v12h-10v10h-12v-10h-10v-12h10z" fill="#0E7A5A"/>
+<rect x="60" y="150" width="10" height="24" fill="#94A3B8"/><circle cx="65" cy="140" r="20" fill="#0E7A5A" opacity="0.55"/>
+<rect x="404" y="150" width="10" height="24" fill="#94A3B8"/><circle cx="409" cy="138" r="22" fill="#0E7A5A" opacity="0.45"/>
+<rect x="0" y="174" width="480" height="6" fill="#FFFFFF" opacity="0.6"/>
+</svg>
